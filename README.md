@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: cursor-trial-unlocker, trial, reset, machine-id, cursor, ide, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+cursor ide trial reset machine-id cursor-reset-tool cursor-trial-unlocker cursor-trial-reset windows portable prebuilt x64 free download
+related: cursor, ide, trial, reset, machine-id
